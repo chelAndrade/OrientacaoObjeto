@@ -5,13 +5,19 @@
  */
 package trabalhooo;
 
+
+
 /**
  *
  * @author miche
  */
-public class Locadora {
+public class LocadoraMain {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       
     
-    
-    
-  
+}
 }

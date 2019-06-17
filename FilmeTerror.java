@@ -9,9 +9,12 @@ package trabalhooo;
  *
  * @author miche
  */
-public class Locadora {
+public class FilmeTerror  extends Filme{
+     public void classificarIdade(){
+        
+    }
     
-    
-    
-  
+    public boolean disponAluguel(){
+        return true;
+    }
 }
